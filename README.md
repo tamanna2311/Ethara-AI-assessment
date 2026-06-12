@@ -5,7 +5,7 @@ A full-stack, containerized web application for managing products, customers, or
 ## 🚀 Live Demo
 
 - **Frontend**: [https://ethara-ai-assessment-9gg730ynf-tamanna-s-projects3.vercel.app/](https://ethara-ai-assessment-9gg730ynf-tamanna-s-projects3.vercel.app/)
-- **Backend API Docs**: [https://ethara-ai-assessment-production-4266.up.railway.app/docs](https://ethara-ai-assessment-production-4266.up.railway.app/docs)
+- **Backend API Docs**: [https://ethara-ai-assessment-production-e411.up.railway.app/docs](https://ethara-ai-assessment-production-e411.up.railway.app/docs)
 
 ## 🛠️ Technology Stack
 
